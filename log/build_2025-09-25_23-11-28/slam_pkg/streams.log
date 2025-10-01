@@ -1,0 +1,23 @@
+[0.413s] Invoking command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg': PYTHONPATH=/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg/build --no-deps symlink_data
+[0.564s] running develop
+[0.660s] running egg_info
+[0.660s] creating slam_pkg.egg-info
+[0.660s] writing slam_pkg.egg-info/PKG-INFO
+[0.660s] writing dependency_links to slam_pkg.egg-info/dependency_links.txt
+[0.660s] writing entry points to slam_pkg.egg-info/entry_points.txt
+[0.660s] writing requirements to slam_pkg.egg-info/requires.txt
+[0.660s] writing top-level names to slam_pkg.egg-info/top_level.txt
+[0.660s] writing manifest file 'slam_pkg.egg-info/SOURCES.txt'
+[0.661s] reading manifest file 'slam_pkg.egg-info/SOURCES.txt'
+[0.661s] writing manifest file 'slam_pkg.egg-info/SOURCES.txt'
+[0.662s] running build_ext
+[0.662s] Creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/lib/python3.10/site-packages/slam-pkg.egg-link (link to .)
+[0.663s] 
+[0.663s] Installed /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg
+[0.663s] running symlink_data
+[0.663s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index
+[0.663s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index
+[0.663s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index/packages
+[0.663s] symbolically linking /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg/resource/slam_pkg -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index/packages
+[0.663s] symbolically linking /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg/package.xml -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg
+[0.679s] Invoked command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg' returned '0': PYTHONPATH=/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg/build --no-deps symlink_data

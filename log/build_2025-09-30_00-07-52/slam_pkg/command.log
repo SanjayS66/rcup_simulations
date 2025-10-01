@@ -1,0 +1,4 @@
+Invoking command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg -- -j12 -l12
+Invoked command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg -- -j12 -l12
+Invoking command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg
+Invoked command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg

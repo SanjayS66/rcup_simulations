@@ -1,0 +1,28 @@
+[0.150s] Invoking command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg -- -j12 -l12
+[0.176s] Invoked command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg -- -j12 -l12
+[0.182s] Invoking command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg
+[0.187s] -- Install configuration: ""
+[0.187s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/launch
+[0.187s] -- Installing: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/launch/turtlebot3_customworld.launch.py
+[0.187s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/launch/localisation_amcl.launch.py
+[0.187s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/launch/nav2.launch.py
+[0.187s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/launch/slam.launch.py
+[0.187s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config
+[0.187s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config/slam_rviz_config.rviz
+[0.187s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config/mapper_params_online_async.yaml
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config/localisation_rviz_config.rviz
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index/package_run_dependencies/slam_pkg
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index/parent_prefix_path/slam_pkg
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/environment/ament_prefix_path.sh
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/environment/ament_prefix_path.dsv
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/environment/path.sh
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/environment/path.dsv
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/local_setup.bash
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/local_setup.sh
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/local_setup.zsh
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/local_setup.dsv
+[0.188s] -- Installing: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/package.dsv
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index/packages/slam_pkg
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/cmake/slam_pkgConfig.cmake
+[0.188s] -- Up-to-date: /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/cmake/slam_pkgConfig-version.cmake
+[0.189s] Invoked command in '/home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sanjay/ros2_workspaces/nav_turtlebot/build/slam_pkg

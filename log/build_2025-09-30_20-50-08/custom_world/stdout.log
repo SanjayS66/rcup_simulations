@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/custom_world/custom_world.egg-info
+writing ../../build/custom_world/custom_world.egg-info/PKG-INFO
+writing dependency_links to ../../build/custom_world/custom_world.egg-info/dependency_links.txt
+writing entry points to ../../build/custom_world/custom_world.egg-info/entry_points.txt
+writing requirements to ../../build/custom_world/custom_world.egg-info/requires.txt
+writing top-level names to ../../build/custom_world/custom_world.egg-info/top_level.txt
+writing manifest file '../../build/custom_world/custom_world.egg-info/SOURCES.txt'
+reading manifest file '../../build/custom_world/custom_world.egg-info/SOURCES.txt'
+writing manifest file '../../build/custom_world/custom_world.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build
+creating /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build/lib
+creating /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build/lib/custom_world
+copying custom_world/__init__.py -> /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build/lib/custom_world
+running install
+running install_lib
+creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages/custom_world
+copying /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build/lib/custom_world/__init__.py -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages/custom_world
+byte-compiling /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages/custom_world/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/ament_index
+creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/ament_index/resource_index
+creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/ament_index/resource_index/packages
+copying resource/custom_world -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/ament_index/resource_index/packages
+copying package.xml -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world
+running install_egg_info
+Copying ../../build/custom_world/custom_world.egg-info to /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages/custom_world-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/install.log'
