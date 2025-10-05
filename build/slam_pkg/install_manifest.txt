@@ -3,6 +3,8 @@
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/launch/slam.launch.py
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config/slam_rviz_config.rviz
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config/mapper_params_online_async.yaml
+/home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config/nav2_rviz_config.rviz
+/home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config/nav2_params.yaml
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/config/localisation_rviz_config.rviz
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index/package_run_dependencies/slam_pkg
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index/parent_prefix_path/slam_pkg
@@ -18,3 +20,4 @@
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/ament_index/resource_index/packages/slam_pkg
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/cmake/slam_pkgConfig.cmake
 /home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/cmake/slam_pkgConfig-version.cmake
+/home/sanjay/ros2_workspaces/nav_turtlebot/install/slam_pkg/share/slam_pkg/package.xml

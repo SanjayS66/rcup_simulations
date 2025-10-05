@@ -1,0 +1,42 @@
+[0.370s] Invoking command in '/home/sanjay/ros2_workspaces/nav_turtlebot/src/custom_world': PYTHONPATH=/home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/custom_world build --build-base /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build install --record /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/install.log --single-version-externally-managed install_data
+[0.513s] running egg_info
+[0.514s] creating ../../build/custom_world/custom_world.egg-info
+[0.514s] writing ../../build/custom_world/custom_world.egg-info/PKG-INFO
+[0.514s] writing dependency_links to ../../build/custom_world/custom_world.egg-info/dependency_links.txt
+[0.514s] writing entry points to ../../build/custom_world/custom_world.egg-info/entry_points.txt
+[0.514s] writing requirements to ../../build/custom_world/custom_world.egg-info/requires.txt
+[0.514s] writing top-level names to ../../build/custom_world/custom_world.egg-info/top_level.txt
+[0.514s] writing manifest file '../../build/custom_world/custom_world.egg-info/SOURCES.txt'
+[0.515s] reading manifest file '../../build/custom_world/custom_world.egg-info/SOURCES.txt'
+[0.516s] writing manifest file '../../build/custom_world/custom_world.egg-info/SOURCES.txt'
+[0.516s] running build
+[0.516s] running build_py
+[0.516s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build
+[0.516s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build/lib
+[0.516s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build/lib/custom_world
+[0.516s] copying custom_world/__init__.py -> /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build/lib/custom_world
+[0.517s] running install
+[0.517s] running install_lib
+[0.517s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages/custom_world
+[0.518s] copying /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build/lib/custom_world/__init__.py -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages/custom_world
+[0.518s] byte-compiling /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages/custom_world/__init__.py to __init__.cpython-310.pyc
+[0.518s] running install_data
+[0.518s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/ament_index
+[0.518s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/ament_index/resource_index
+[0.518s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/ament_index/resource_index/packages
+[0.518s] copying resource/custom_world -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/ament_index/resource_index/packages
+[0.518s] copying package.xml -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world
+[0.518s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/launch
+[0.518s] copying launch/turtlebot3_customworld.launch.py -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/launch
+[0.519s] copying launch/nav2.launch.py -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/launch
+[0.519s] copying launch/slam.launch.py -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/launch
+[0.519s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/maps
+[0.519s] copying maps/slam_map.yaml -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/maps
+[0.519s] creating /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/config
+[0.519s] copying config/mapper_params_online_async.yaml -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/config
+[0.519s] copying config/nav2_params.yaml -> /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/share/custom_world/config
+[0.520s] running install_egg_info
+[0.521s] Copying ../../build/custom_world/custom_world.egg-info to /home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages/custom_world-0.0.0-py3.10.egg-info
+[0.522s] running install_scripts
+[0.537s] writing list of installed files to '/home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/install.log'
+[0.554s] Invoked command in '/home/sanjay/ros2_workspaces/nav_turtlebot/src/custom_world' returned '0': PYTHONPATH=/home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_workspaces/nav_turtlebot/install/custom_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/custom_world build --build-base /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/build install --record /home/sanjay/ros2_workspaces/nav_turtlebot/build/custom_world/install.log --single-version-externally-managed install_data
