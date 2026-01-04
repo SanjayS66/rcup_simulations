@@ -278,6 +278,7 @@ ros2 launch custom_world nav2.launch.py
 ---
 
 ## 🎬 Demonstrations
-[slam_turtlebot.webm](https://github.com/user-attachments/assets/bd35ca9b-86c3-420a-9e8a-ae851c0bab29)
 
-[nav2_turtlebot.webm](https://github.com/user-attachments/assets/2b68145e-5b52-40cf-b7b5-bbe4566fd33d)
+https://github.com/user-attachments/assets/1b95ed35-fa5a-4768-878d-8f91d35b67ba
+
+https://github.com/user-attachments/assets/94d9c03d-9cd3-4548-8bed-566e38e98c37
