@@ -282,3 +282,41 @@ ros2 launch custom_world nav2.launch.py
 https://github.com/user-attachments/assets/1b95ed35-fa5a-4768-878d-8f91d35b67ba
 
 https://github.com/user-attachments/assets/94d9c03d-9cd3-4548-8bed-566e38e98c37
+
+---
+## 🤝 Contributing
+
+Contributions are welcome! Please:  
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📝 License
+
+This project is maintained as part of RoboCup training tasks. Please contact the maintainer for licensing information.
+
+---
+
+## 👤 Author
+
+**Sanjay**
+- Email: sanjay702594@gmail.com
+- GitHub: [@SanjayS66](https://github.com/SanjayS66)
+
+---
+
+## 🙏 Acknowledgments
+
+- [ROBOTIS TurtleBot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+- [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+- [Nav2 Stack](https://navigation.ros.org/)
+- [Slam Tutorial by Articulated robotics](https://youtu.be/ZaiA3hWaRzE?si=ApHs5NZYqpuWnLyy)
+- [Nav2 Tutorials by Articulated robotics](https://youtu.be/jkoGkAd0GYk?si=c9rW520vtVOQP6N8)
+- RoboCup@work community
+
+---
