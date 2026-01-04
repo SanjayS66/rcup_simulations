@@ -276,3 +276,8 @@ ros2 launch custom_world nav2.launch.py
 4. The robot will plan and execute a path to the goal
 
 ---
+
+## 🎬 Demonstrations
+[slam_turtlebot.webm](https://github.com/user-attachments/assets/bd35ca9b-86c3-420a-9e8a-ae851c0bab29)
+
+[nav2_turtlebot.webm](https://github.com/user-attachments/assets/2b68145e-5b52-40cf-b7b5-bbe4566fd33d)
