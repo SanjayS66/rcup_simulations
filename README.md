@@ -317,6 +317,9 @@ This project is maintained as part of RoboCup training tasks. Please contact the
 - [Nav2 Stack](https://navigation.ros.org/)
 - [Slam Tutorial by Articulated robotics](https://youtu.be/ZaiA3hWaRzE?si=ApHs5NZYqpuWnLyy)
 - [Nav2 Tutorials by Articulated robotics](https://youtu.be/jkoGkAd0GYk?si=c9rW520vtVOQP6N8)
+-  [TurtleBot3 Simulation Guide](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
+- [slam_toolbox Documentation](https://github.com/SteveMacenski/slam_toolbox/blob/humble/README.md)
+- [Nav2 Documentation](https://navigation.ros.org/)
 - RoboCup@work community
 
 ---
